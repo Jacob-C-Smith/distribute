@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "connection.h": "c",
+        "distribute.h": "c",
+        "socket.h": "c",
+        "a.out.h": "c"
+    }
+}
