@@ -11,6 +11,9 @@
 
 // header files
 #include <distribute/connection.h>
+#include <json/json.h>
+#include <sync/sync.h>
+#include <parallel/parallel.h>
 
 // platform dependent macros
 #ifdef _WIN64

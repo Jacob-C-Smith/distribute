@@ -19,6 +19,17 @@
  */
 int distribute_connection_example ( int argc, const char *argv[] );
 
+/** !
+ * Distributed connection program
+ * 
+ * @param argc the argc parameter of the entry point
+ * @param argv the argv parameter of the entry point
+ * 
+ * @return 1 on success, 0 on error
+ */
+int distribute_compute_squares_example ( int argc, const char *argv[] );
+
+
 // Data
 const char *pp_example_names[] = { "", "", "", "", "", "", (void *) 0 };
 
