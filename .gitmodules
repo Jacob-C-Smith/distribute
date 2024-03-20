@@ -25,3 +25,6 @@
 [submodule "extern/socket"]
 	path = extern/socket
 	url = https://github.com/Jacob-C-Smith/socket
+[submodule "extern/async"]
+	path = extern/async
+	url = https://github.com/Jacob-C-Smith/async
